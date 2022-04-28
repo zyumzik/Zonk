@@ -1,0 +1,4 @@
+﻿input here server ip address. example: 127.0.0.1
+input here server port. example: 1234
+input here database file location. example: D:\file.mdf
+input here max amount of connected clients. example: 128

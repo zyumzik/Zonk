@@ -1,0 +1,6 @@
+D:\Projects\Ukranian-Zonk\ZonkOnline\MultiplayerLibrary\bin\Debug\MultiplayerLibrary.dll
+D:\Projects\Ukranian-Zonk\ZonkOnline\MultiplayerLibrary\bin\Debug\MultiplayerLibrary.pdb
+D:\Projects\Ukranian-Zonk\ZonkOnline\MultiplayerLibrary\obj\Debug\MultiplayerLibrary.csproj.AssemblyReference.cache
+D:\Projects\Ukranian-Zonk\ZonkOnline\MultiplayerLibrary\obj\Debug\MultiplayerLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Ukranian-Zonk\ZonkOnline\MultiplayerLibrary\obj\Debug\MultiplayerLibrary.dll
+D:\Projects\Ukranian-Zonk\ZonkOnline\MultiplayerLibrary\obj\Debug\MultiplayerLibrary.pdb
